@@ -50,11 +50,9 @@
     </div>
 </div>
 
-
+<!-- Add your site or application content here -->
 {{ $slot }}
 
-<!-- Add your site or application content here -->
-<p>Hello world! This is HTML5 Boilerplate.</p>
 {{--<script src="js/vendor/modernizr-3.5.0.min.js"></script>--}}
 @livewireScripts
 </body>
